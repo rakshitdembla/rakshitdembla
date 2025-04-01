@@ -1,3 +1,9 @@
+👨‍💻 Full-Stack Developer | Flutter & AI Enthusiast
+🚀 Building: Fitness App (Launching on Play Store) & Full-Stack E-Commerce App
+💡 Passionate about learning new technologies and solving complex problems
+💭 Ask me about Flutter, APIs & scaling apps!
+📌 My tech journey started with flashing custom ROMs—where I realized I never give up until I succeed. That mindset keeps me pushing forward in development.
+
 ## 🚀 Tech Stack:
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
