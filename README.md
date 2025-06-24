@@ -1,8 +1,8 @@
-# 👨‍💻 Full-Stack Developer | Flutter & AI Enthusiast  
+# 👨‍💻 Full-Stack Developer | Flutter + NodeJS = ❤️
 
 🚀 **Building:**  
 - Fitness App (Launching on Play Store)  
-- Full-Stack E-Commerce App  
+- Full-Stack Social Media App  
 
 💡 **Passionate about learning new technologies and solving complex problems**  
 💭 **Ask me about:** Flutter, APIs & Scaling Apps  
