@@ -1,13 +1,10 @@
-# 👨‍💻 Full-Stack Developer | Flutter + NodeJS = ❤️
+Full-Stack Developer | Focused on Flutter, Node.js, and Scalable Web & Mobile Apps
 
-🚀 **Building:**  
-- Fitness App (Launching on Play Store)  
-- Full-Stack Social Media App  
+Skilled in Flutter, Dart, JavaScript, Node.js, Express, MongoDB, and REST API development.
 
-💡 **Passionate about learning new technologies and solving complex problems**  
-💭 **Ask me about:** Flutter, APIs & Scaling Apps  
+Passionate about building efficient mobile apps and robust backend systems.
 
-📌 My tech journey started with flashing custom ROMs—where I realized I never give up until I succeed. That mindset keeps me pushing forward in development.  
+I love building apps, learning new technologies, and improving through code every day.
 
 ---
 
