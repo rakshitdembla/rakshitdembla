@@ -17,7 +17,3 @@ I’m a BCA student and cross-platform developer specializing in Flutter and Rea
 Flutter | React Native | Node.js
 PostgreSQL | MongoDB | Firebase
 Java | JavaScript | Dart
-
-🎯 Currently
-
-Looking for opportunities in Mobile or Full-Stack Development where I can contribute to real products and grow as a software engineer.
