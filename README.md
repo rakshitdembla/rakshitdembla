@@ -6,7 +6,7 @@ Currently, I'm building backend applications using Java, Spring Boot, REST APIs,
 
 ### 🚀 Projects
 
-- **Event Ticket Booking System** *(Currently Building)* — Spring Boot, PostgreSQL, Redis, Kafka, JWT Authentication
+- **Event Ticket Booking System** — Spring Boot, PostgreSQL, Redis, RazorPay , JWT Authentication
 - **Journal Management API** — Production-oriented Spring Boot REST API
 - **FitLifts** — Flutter fitness application published on the Google Play Store
 - **Snibbo** — Full-stack social media application built with Flutter, Node.js, MongoDB, and Socket.IO
